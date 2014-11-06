@@ -1,0 +1,15 @@
+D:\bao\vsprojects\runcmd\runcmd\bin\Debug\runcmd.exe
+D:\bao\vsprojects\runcmd\runcmd\bin\Debug\runcmd.pdb
+D:\bao\vsprojects\runcmd\runcmd\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\bao\vsprojects\runcmd\runcmd\obj\x86\Debug\runcmd.exe
+D:\bao\vsprojects\runcmd\runcmd\obj\x86\Debug\runcmd.pdb
+E:\Projects\cmd\runcmd\obj\x86\Debug\runcmd.exe
+E:\Projects\cmd\runcmd\obj\x86\Debug\runcmd.pdb
+E:\Projects\cmd\runcmd\bin\Debug\runcmd.exe
+E:\Projects\cmd\runcmd\bin\Debug\runcmd.pdb
+E:\Projects\cmd\runcmd\obj\x86\Debug\runcmd.csprojResolveAssemblyReference.cache
+E:\zzgit\runcmd\runcmd\obj\x86\Debug\runcmd.exe
+E:\zzgit\runcmd\runcmd\obj\x86\Debug\runcmd.pdb
+E:\zzgit\runcmd\runcmd\bin\Debug\runcmd.exe
+E:\zzgit\runcmd\runcmd\bin\Debug\runcmd.pdb
+E:\zzgit\runcmd\runcmd\obj\x86\Debug\runcmd.csprojResolveAssemblyReference.cache

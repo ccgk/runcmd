@@ -1,0 +1,27 @@
+vs?D:\Program Files (x86)\Microsoft Visual Studio 12.0\Common7\IDE\devenv.exe
+vs2008?C:\Program Files\Microsoft Visual Studio 9.0\Common7\IDE\devenv.exe
+sql?D:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\Ssms.exe
+skype?C:\Program FilesSkypePhone\Skype.exe
+vm?D:\Program Files\vmware.exe
+jsq?calc
+jsb?notepad
+ff?D:\Program Files (x86)\Mozilla Firefox\firefox.exe
+gg?C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+ie?iexplore
+bd?http://www.baidu.com/
+bdyy?http://box.zhangmen.baidu.com/m?rf=idx&ct=134217728&tn=baidumt&gate=5
+host?notepad|C:\Windows\System32\drivers\etc\hosts
+yx?D:\Program Files (x86)\Mozilla Thunderbird\thunderbird.exe
+xgj?E:\Projects\readtxtsala\readtxtsala\bin\Debug\readtxtsala.exe
+yclj?mstsc.exe
+bug?http://prj.tiexue.cn/www/?m=my&f=todo
+jt?D:\1.exe
+wjj?wenjianjia.bat
+qq?D:\Program Files (x86)\Tencent\QQ\QQProtect\Bin\QQProtect.exe
+sqlgz?profiler
+zz?D:\soft\RegExBuilder\RegExBuilder.exe
+fm?D:\Program Files\Foxmail 7.0\Foxmail.exe
+pz?E:\other\cmd.txt
+fby?D:\Program Files (x86)\Red Gate\.NET Reflector\Desktop 8.3\Reflector.exe
+xx?E:\mydoc\stdata
+ht?mspaint.exe
